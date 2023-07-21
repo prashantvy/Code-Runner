@@ -1,5 +1,6 @@
 # Code-Runner
 
+This is a custom-built C++ Code Runner.
 
 Please install MinGW before running this code runner.
 
