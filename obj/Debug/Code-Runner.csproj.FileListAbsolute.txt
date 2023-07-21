@@ -1,0 +1,11 @@
+D:\Microsoft Visual Studio\Code-Runner\obj\Debug\Code-Runner.csproj.AssemblyReference.cache
+D:\Microsoft Visual Studio\Code-Runner\obj\Debug\Code-Runner.csproj.SuggestedBindingRedirects.cache
+D:\Microsoft Visual Studio\Code-Runner\obj\Debug\Code_Runner.Code_Runner.resources
+D:\Microsoft Visual Studio\Code-Runner\obj\Debug\Code_Runner.Properties.Resources.resources
+D:\Microsoft Visual Studio\Code-Runner\obj\Debug\Code-Runner.csproj.GenerateResource.cache
+D:\Microsoft Visual Studio\Code-Runner\obj\Debug\Code-Runner.csproj.CoreCompileInputs.cache
+D:\Microsoft Visual Studio\Code-Runner\bin\Debug\Code-Runner.exe.config
+D:\Microsoft Visual Studio\Code-Runner\bin\Debug\Code-Runner.exe
+D:\Microsoft Visual Studio\Code-Runner\bin\Debug\Code-Runner.pdb
+D:\Microsoft Visual Studio\Code-Runner\obj\Debug\Code-Runner.exe
+D:\Microsoft Visual Studio\Code-Runner\obj\Debug\Code-Runner.pdb
